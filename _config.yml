@@ -1,10 +1,10 @@
 # Site settings
-title: Gypsophila Blog
-SEOTitle: 徐杰的博客 | Gypsophila Blog
+title: 浮白 Blog
+SEOTitle: 徐杰的博客 | 浮白 Blog
 header-img: img/post-bg-swift2.jpg
 email: hb_xujie@qq.com
 description: "Every failure is leading towards success."
-keyword: "Gypsophila, BY Blog, Gypsophila的博客, Gypsophila, xujie007, iOS, Apple, iPhone"
+keyword: "浮白, 浮白 Blog, 浮白的博客, 浮白, xujie007, JAVA"
 url: "http://xujie007.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xujie007/xujie007.github.io.git" # you code repository
