@@ -7,7 +7,7 @@ author:     xujie
 header-img: img/post-bg-idea.png
 catalog: true
 tags:
-    - intellij idea
+    - MySQL
 ---
 
 > 正所谓前人栽树，后人乘凉。
